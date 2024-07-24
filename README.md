@@ -19,12 +19,9 @@ I hope you like the theme. If you're not so sure about downloading this theme, c
 > "very good theme, nice colours and it comes with free sex 10/10" -lemon20k (has Autism and ADHD)
 > [His YouTube](https://www.youtube.com/channel/UCPtee45FLrZhQTk7FE5w9oA)
 
-![Example 1 in C#] (https://i.ibb.co/nC8vWvK/1.png?raw=true)
 
-![Example 2 in C++] (https://i.ibb.co/9cLWvH7/2.png?raw=true)
-
-![Example 3 in Java] (https://i.ibb.co/gPBdpNp/3.png?raw=true)
-
-![Example 4 in JavaScript] (https://i.ibb.co/j5bPQmw/4.png?raw=true)
-
-![Example 5 in Python] (https://i.ibb.co/ftznFPT/5.png?raw=true)
+<img title="Example with C++" src=".//screenshots//1.png">
+<img title="Example with C#" src=".//screenshots//2.png">
+<img title="Example with Java" src=".//screenshots//3.png">
+<img title="Example with JavaScript" src=".//screenshots//4.png">
+<img title="Example with Python" src=".//screenshots//5.png">
