@@ -20,8 +20,8 @@ I hope you like the theme. If you're not so sure about downloading this theme, c
 > [His YouTube](https://www.youtube.com/channel/UCPtee45FLrZhQTk7FE5w9oA)
 
 
-<img title="Example with C++" src=".//screenshots//1.png">
-<img title="Example with C#" src=".//screenshots//2.png">
-<img title="Example with Java" src=".//screenshots//3.png">
-<img title="Example with JavaScript" src=".//screenshots//4.png">
-<img title="Example with Python" src=".//screenshots//5.png">
+<img title="Example with C++" src=".//1.png">
+<img title="Example with C#" src=".//2.png">
+<img title="Example with Java" src=".//3.png">
+<img title="Example with JavaScript" src=".//4.png">
+<img title="Example with Python" src=".//5.png">
