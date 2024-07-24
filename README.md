@@ -20,7 +20,11 @@ I hope you like the theme. If you're not so sure about downloading this theme, c
 > [His YouTube](https://www.youtube.com/channel/UCPtee45FLrZhQTk7FE5w9oA)
 
 ![Example 1 in C#] (https://i.ibb.co/nC8vWvK/1.png)
+
 ![Example 2 in C++] (https://i.ibb.co/9cLWvH7/2.png)
+
 ![Example 3 in Java] (https://i.ibb.co/gPBdpNp/3.png)
+
 ![Example 4 in JavaScript] (https://i.ibb.co/j5bPQmw/4.png)
+
 ![Example 5 in Python] (https://i.ibb.co/ftznFPT/5.png)
